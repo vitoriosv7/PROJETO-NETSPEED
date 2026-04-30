@@ -1,0 +1,717 @@
+2026-04-29 18:43:54,628 - INFO - Monitoramento iniciado...
+2026-04-29 18:44:08,916 - INFO - Velocidade atual: 21.91 Mbps
+2026-04-29 18:44:31,940 - INFO - Velocidade atual: 22.33 Mbps
+2026-04-29 18:44:55,140 - INFO - Velocidade atual: 24.53 Mbps
+2026-04-29 18:44:55,141 - INFO - Média dos últimos testes: 22.92 Mbps | Status: CRITICO
+2026-04-29 18:44:57,747 - ERROR - Erro ao enviar email: (334, b'UGFzc3dvcmQ6')
+2026-04-29 18:45:21,441 - INFO - Velocidade atual: 23.94 Mbps
+2026-04-29 18:45:44,748 - INFO - Velocidade atual: 25.31 Mbps
+2026-04-29 18:46:07,712 - INFO - Velocidade atual: 26.67 Mbps
+2026-04-29 18:46:07,713 - INFO - Média dos últimos testes: 25.31 Mbps | Status: CRITICO
+2026-04-29 18:46:50,577 - INFO - Monitoramento iniciado...
+2026-04-29 18:47:03,857 - INFO - Velocidade atual: 25.76 Mbps
+2026-04-29 18:47:27,758 - INFO - Velocidade atual: 27.11 Mbps
+2026-04-29 18:47:50,874 - INFO - Velocidade atual: 28.10 Mbps
+2026-04-29 18:47:50,875 - INFO - Média dos últimos testes: 26.99 Mbps | Status: CRITICO
+2026-04-29 18:47:54,881 - INFO - Email enviado com sucesso
+2026-04-29 18:48:17,799 - INFO - Velocidade atual: 26.25 Mbps
+2026-04-29 18:48:41,082 - INFO - Velocidade atual: 28.19 Mbps
+2026-04-29 18:49:03,954 - INFO - Velocidade atual: 28.01 Mbps
+2026-04-29 18:49:03,956 - INFO - Média dos últimos testes: 27.48 Mbps | Status: CRITICO
+2026-04-29 18:49:27,524 - INFO - Velocidade atual: 27.15 Mbps
+2026-04-29 18:49:50,509 - INFO - Velocidade atual: 25.66 Mbps
+2026-04-29 18:50:13,311 - INFO - Velocidade atual: 26.42 Mbps
+2026-04-29 18:50:13,312 - INFO - Média dos últimos testes: 26.41 Mbps | Status: CRITICO
+2026-04-29 18:50:36,552 - INFO - Velocidade atual: 26.49 Mbps
+2026-04-29 18:50:59,559 - INFO - Velocidade atual: 26.46 Mbps
+2026-04-29 18:51:22,426 - INFO - Velocidade atual: 24.20 Mbps
+2026-04-29 18:51:22,427 - INFO - Média dos últimos testes: 25.72 Mbps | Status: CRITICO
+2026-04-29 18:51:45,288 - INFO - Velocidade atual: 25.73 Mbps
+2026-04-29 18:52:08,287 - INFO - Velocidade atual: 26.39 Mbps
+2026-04-29 18:52:31,224 - INFO - Velocidade atual: 23.83 Mbps
+2026-04-29 18:52:31,225 - INFO - Média dos últimos testes: 25.32 Mbps | Status: CRITICO
+2026-04-29 18:52:54,139 - INFO - Velocidade atual: 22.76 Mbps
+2026-04-29 18:53:17,154 - INFO - Velocidade atual: 20.95 Mbps
+2026-04-29 18:53:40,061 - INFO - Velocidade atual: 21.82 Mbps
+2026-04-29 18:53:40,062 - INFO - Média dos últimos testes: 21.84 Mbps | Status: CRITICO
+2026-04-29 18:54:04,911 - INFO - Velocidade atual: 22.55 Mbps
+2026-04-29 18:54:27,804 - INFO - Velocidade atual: 21.95 Mbps
+2026-04-29 18:54:50,685 - INFO - Velocidade atual: 23.45 Mbps
+2026-04-29 18:54:50,686 - INFO - Média dos últimos testes: 22.65 Mbps | Status: CRITICO
+2026-04-29 18:55:13,481 - INFO - Velocidade atual: 23.18 Mbps
+2026-04-29 18:55:36,399 - INFO - Velocidade atual: 22.33 Mbps
+2026-04-29 18:55:59,584 - INFO - Velocidade atual: 23.68 Mbps
+2026-04-29 18:55:59,584 - INFO - Média dos últimos testes: 23.06 Mbps | Status: CRITICO
+2026-04-29 18:56:22,430 - INFO - Velocidade atual: 22.64 Mbps
+2026-04-29 18:56:45,396 - INFO - Velocidade atual: 23.17 Mbps
+2026-04-29 18:57:08,361 - INFO - Velocidade atual: 22.73 Mbps
+2026-04-29 18:57:08,361 - INFO - Média dos últimos testes: 22.85 Mbps | Status: CRITICO
+2026-04-29 18:57:31,235 - INFO - Velocidade atual: 20.02 Mbps
+2026-04-29 18:57:54,131 - INFO - Velocidade atual: 22.03 Mbps
+2026-04-29 18:58:17,357 - INFO - Velocidade atual: 22.47 Mbps
+2026-04-29 18:58:17,358 - INFO - Média dos últimos testes: 21.51 Mbps | Status: CRITICO
+2026-04-29 18:58:42,095 - INFO - Velocidade atual: 20.95 Mbps
+2026-04-29 18:59:05,064 - INFO - Velocidade atual: 21.35 Mbps
+2026-04-29 18:59:27,892 - INFO - Velocidade atual: 20.42 Mbps
+2026-04-29 18:59:27,893 - INFO - Média dos últimos testes: 20.91 Mbps | Status: CRITICO
+2026-04-29 18:59:50,755 - INFO - Velocidade atual: 21.36 Mbps
+2026-04-29 19:00:02,274 - ERROR - Erro no speedtest: Unable to connect to servers to test latency.
+2026-04-29 19:00:02,274 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 19:00:13,901 - ERROR - Erro no speedtest: Unable to connect to servers to test latency.
+2026-04-29 19:00:13,902 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 19:00:13,906 - INFO - Média dos últimos testes: 7.12 Mbps | Status: CRITICO
+2026-04-29 19:00:36,961 - INFO - Velocidade atual: 22.45 Mbps
+2026-04-29 19:00:59,973 - INFO - Velocidade atual: 22.76 Mbps
+2026-04-29 19:01:23,107 - INFO - Velocidade atual: 23.86 Mbps
+2026-04-29 19:01:23,107 - INFO - Média dos últimos testes: 23.03 Mbps | Status: CRITICO
+2026-04-29 19:01:46,080 - INFO - Velocidade atual: 17.61 Mbps
+2026-04-29 19:02:09,212 - INFO - Velocidade atual: 19.96 Mbps
+2026-04-29 19:02:32,646 - INFO - Velocidade atual: 20.80 Mbps
+2026-04-29 19:02:32,647 - INFO - Média dos últimos testes: 19.46 Mbps | Status: CRITICO
+2026-04-29 19:02:58,756 - INFO - Velocidade atual: 19.57 Mbps
+2026-04-29 19:03:34,613 - INFO - Velocidade atual: 19.67 Mbps
+2026-04-29 19:03:58,108 - INFO - Velocidade atual: 16.70 Mbps
+2026-04-29 19:03:58,108 - INFO - Média dos últimos testes: 18.64 Mbps | Status: CRITICO
+2026-04-29 19:04:20,369 - INFO - Velocidade atual: 17.07 Mbps
+2026-04-29 19:04:43,413 - INFO - Velocidade atual: 19.84 Mbps
+2026-04-29 19:05:05,530 - INFO - Velocidade atual: 18.93 Mbps
+2026-04-29 19:05:05,531 - INFO - Média dos últimos testes: 18.61 Mbps | Status: CRITICO
+2026-04-29 19:05:27,676 - INFO - Velocidade atual: 15.99 Mbps
+2026-04-29 19:05:49,831 - INFO - Velocidade atual: 16.85 Mbps
+2026-04-29 19:06:13,059 - INFO - Velocidade atual: 16.36 Mbps
+2026-04-29 19:06:13,060 - INFO - Média dos últimos testes: 16.40 Mbps | Status: CRITICO
+2026-04-29 19:06:35,322 - INFO - Velocidade atual: 18.17 Mbps
+2026-04-29 19:06:58,454 - INFO - Velocidade atual: 16.29 Mbps
+2026-04-29 19:07:20,555 - INFO - Velocidade atual: 17.33 Mbps
+2026-04-29 19:07:20,556 - INFO - Média dos últimos testes: 17.26 Mbps | Status: CRITICO
+2026-04-29 19:07:42,930 - INFO - Velocidade atual: 17.50 Mbps
+2026-04-29 19:08:06,013 - INFO - Velocidade atual: 15.33 Mbps
+2026-04-29 19:08:28,420 - INFO - Velocidade atual: 18.07 Mbps
+2026-04-29 19:08:28,421 - INFO - Média dos últimos testes: 16.97 Mbps | Status: CRITICO
+2026-04-29 19:08:50,979 - INFO - Velocidade atual: 17.88 Mbps
+2026-04-29 19:09:13,614 - INFO - Velocidade atual: 17.60 Mbps
+2026-04-29 19:09:35,945 - INFO - Velocidade atual: 18.36 Mbps
+2026-04-29 19:09:35,945 - INFO - Média dos últimos testes: 17.94 Mbps | Status: CRITICO
+2026-04-29 19:09:58,345 - INFO - Velocidade atual: 17.18 Mbps
+2026-04-29 19:10:20,404 - INFO - Velocidade atual: 17.02 Mbps
+2026-04-29 19:10:42,929 - INFO - Velocidade atual: 15.99 Mbps
+2026-04-29 19:10:42,930 - INFO - Média dos últimos testes: 16.73 Mbps | Status: CRITICO
+2026-04-29 19:11:04,944 - INFO - Velocidade atual: 17.32 Mbps
+2026-04-29 19:11:27,475 - INFO - Velocidade atual: 16.58 Mbps
+2026-04-29 19:11:49,794 - INFO - Velocidade atual: 17.11 Mbps
+2026-04-29 19:11:49,795 - INFO - Média dos últimos testes: 17.00 Mbps | Status: CRITICO
+2026-04-29 19:12:15,473 - INFO - Velocidade atual: 12.24 Mbps
+2026-04-29 19:12:37,629 - INFO - Velocidade atual: 16.57 Mbps
+2026-04-29 19:12:59,720 - INFO - Velocidade atual: 17.10 Mbps
+2026-04-29 19:12:59,721 - INFO - Média dos últimos testes: 15.30 Mbps | Status: CRITICO
+2026-04-29 19:13:21,982 - INFO - Velocidade atual: 16.32 Mbps
+2026-04-29 19:13:44,165 - INFO - Velocidade atual: 14.99 Mbps
+2026-04-29 19:14:06,505 - INFO - Velocidade atual: 16.72 Mbps
+2026-04-29 19:14:06,506 - INFO - Média dos últimos testes: 16.01 Mbps | Status: CRITICO
+2026-04-29 19:14:28,704 - INFO - Velocidade atual: 16.73 Mbps
+2026-04-29 19:14:50,829 - INFO - Velocidade atual: 18.12 Mbps
+2026-04-29 19:15:13,059 - INFO - Velocidade atual: 17.68 Mbps
+2026-04-29 19:15:13,059 - INFO - Média dos últimos testes: 17.51 Mbps | Status: CRITICO
+2026-04-29 19:15:35,410 - INFO - Velocidade atual: 16.21 Mbps
+2026-04-29 19:15:57,641 - INFO - Velocidade atual: 19.25 Mbps
+2026-04-29 19:16:19,582 - INFO - Velocidade atual: 18.76 Mbps
+2026-04-29 19:16:19,582 - INFO - Média dos últimos testes: 18.07 Mbps | Status: CRITICO
+2026-04-29 19:16:41,722 - INFO - Velocidade atual: 18.19 Mbps
+2026-04-29 19:17:03,892 - INFO - Velocidade atual: 16.27 Mbps
+2026-04-29 19:17:26,215 - INFO - Velocidade atual: 17.48 Mbps
+2026-04-29 19:17:26,216 - INFO - Média dos últimos testes: 17.31 Mbps | Status: CRITICO
+2026-04-29 19:17:48,104 - INFO - Velocidade atual: 16.09 Mbps
+2026-04-29 19:18:09,932 - INFO - Velocidade atual: 18.13 Mbps
+2026-04-29 19:18:31,992 - INFO - Velocidade atual: 17.62 Mbps
+2026-04-29 19:18:31,993 - INFO - Média dos últimos testes: 17.28 Mbps | Status: CRITICO
+2026-04-29 19:18:54,645 - INFO - Velocidade atual: 16.54 Mbps
+2026-04-29 19:19:17,116 - INFO - Velocidade atual: 16.48 Mbps
+2026-04-29 19:19:39,319 - INFO - Velocidade atual: 18.05 Mbps
+2026-04-29 19:19:39,320 - INFO - Média dos últimos testes: 17.02 Mbps | Status: CRITICO
+2026-04-29 19:20:01,616 - INFO - Velocidade atual: 19.34 Mbps
+2026-04-29 19:20:24,135 - INFO - Velocidade atual: 16.94 Mbps
+2026-04-29 19:20:46,469 - INFO - Velocidade atual: 17.80 Mbps
+2026-04-29 19:20:46,470 - INFO - Média dos últimos testes: 18.03 Mbps | Status: CRITICO
+2026-04-29 19:21:08,650 - INFO - Velocidade atual: 17.48 Mbps
+2026-04-29 19:21:30,844 - INFO - Velocidade atual: 17.26 Mbps
+2026-04-29 19:21:53,095 - INFO - Velocidade atual: 17.28 Mbps
+2026-04-29 19:21:53,095 - INFO - Média dos últimos testes: 17.34 Mbps | Status: CRITICO
+2026-04-29 19:22:16,194 - INFO - Velocidade atual: 16.67 Mbps
+2026-04-29 19:22:38,864 - INFO - Velocidade atual: 18.72 Mbps
+2026-04-29 19:23:00,967 - INFO - Velocidade atual: 17.99 Mbps
+2026-04-29 19:23:00,968 - INFO - Média dos últimos testes: 17.79 Mbps | Status: CRITICO
+2026-04-29 19:23:23,207 - INFO - Velocidade atual: 18.29 Mbps
+2026-04-29 19:23:46,001 - INFO - Velocidade atual: 18.54 Mbps
+2026-04-29 19:24:09,233 - INFO - Velocidade atual: 18.28 Mbps
+2026-04-29 19:24:09,234 - INFO - Média dos últimos testes: 18.37 Mbps | Status: CRITICO
+2026-04-29 19:24:31,687 - INFO - Velocidade atual: 17.99 Mbps
+2026-04-29 19:24:53,872 - INFO - Velocidade atual: 18.92 Mbps
+2026-04-29 19:25:16,211 - INFO - Velocidade atual: 17.93 Mbps
+2026-04-29 19:25:16,212 - INFO - Média dos últimos testes: 18.28 Mbps | Status: CRITICO
+2026-04-29 19:25:38,364 - INFO - Velocidade atual: 18.15 Mbps
+2026-04-29 19:26:00,560 - INFO - Velocidade atual: 18.03 Mbps
+2026-04-29 19:26:22,670 - INFO - Velocidade atual: 19.96 Mbps
+2026-04-29 19:26:22,671 - INFO - Média dos últimos testes: 18.72 Mbps | Status: CRITICO
+2026-04-29 19:26:44,960 - INFO - Velocidade atual: 18.39 Mbps
+2026-04-29 19:27:07,258 - INFO - Velocidade atual: 19.14 Mbps
+2026-04-29 19:27:29,923 - INFO - Velocidade atual: 19.68 Mbps
+2026-04-29 19:27:29,924 - INFO - Média dos últimos testes: 19.07 Mbps | Status: CRITICO
+2026-04-29 19:27:52,313 - INFO - Velocidade atual: 18.77 Mbps
+2026-04-29 19:28:14,679 - INFO - Velocidade atual: 18.67 Mbps
+2026-04-29 19:28:36,794 - INFO - Velocidade atual: 19.70 Mbps
+2026-04-29 19:28:36,795 - INFO - Média dos últimos testes: 19.05 Mbps | Status: CRITICO
+2026-04-29 19:28:59,064 - INFO - Velocidade atual: 19.75 Mbps
+2026-04-29 19:29:21,260 - INFO - Velocidade atual: 20.16 Mbps
+2026-04-29 19:29:43,345 - INFO - Velocidade atual: 17.81 Mbps
+2026-04-29 19:29:43,346 - INFO - Média dos últimos testes: 19.24 Mbps | Status: CRITICO
+2026-04-29 19:30:05,487 - INFO - Velocidade atual: 20.42 Mbps
+2026-04-29 19:30:27,701 - INFO - Velocidade atual: 21.37 Mbps
+2026-04-29 19:30:50,840 - INFO - Velocidade atual: 18.23 Mbps
+2026-04-29 19:30:50,841 - INFO - Média dos últimos testes: 20.01 Mbps | Status: CRITICO
+2026-04-29 19:31:12,872 - INFO - Velocidade atual: 17.82 Mbps
+2026-04-29 19:31:35,103 - INFO - Velocidade atual: 19.63 Mbps
+2026-04-29 19:31:57,653 - INFO - Velocidade atual: 17.70 Mbps
+2026-04-29 19:31:57,656 - INFO - Média dos últimos testes: 18.38 Mbps | Status: CRITICO
+2026-04-29 19:32:19,952 - INFO - Velocidade atual: 18.01 Mbps
+2026-04-29 19:32:42,094 - INFO - Velocidade atual: 18.16 Mbps
+2026-04-29 19:33:04,188 - INFO - Velocidade atual: 16.24 Mbps
+2026-04-29 19:33:04,189 - INFO - Média dos últimos testes: 17.47 Mbps | Status: CRITICO
+2026-04-29 19:33:26,513 - INFO - Velocidade atual: 17.46 Mbps
+2026-04-29 19:33:48,855 - INFO - Velocidade atual: 19.95 Mbps
+2026-04-29 19:34:11,233 - INFO - Velocidade atual: 21.85 Mbps
+2026-04-29 19:34:11,234 - INFO - Média dos últimos testes: 19.76 Mbps | Status: CRITICO
+2026-04-29 19:34:33,368 - INFO - Velocidade atual: 18.28 Mbps
+2026-04-29 19:34:55,718 - INFO - Velocidade atual: 19.72 Mbps
+2026-04-29 19:35:17,996 - INFO - Velocidade atual: 19.65 Mbps
+2026-04-29 19:35:17,997 - INFO - Média dos últimos testes: 19.22 Mbps | Status: CRITICO
+2026-04-29 19:35:40,551 - INFO - Velocidade atual: 18.63 Mbps
+2026-04-29 19:36:02,675 - INFO - Velocidade atual: 18.44 Mbps
+2026-04-29 19:36:24,893 - INFO - Velocidade atual: 18.65 Mbps
+2026-04-29 19:36:24,893 - INFO - Média dos últimos testes: 18.57 Mbps | Status: CRITICO
+2026-04-29 19:36:47,389 - INFO - Velocidade atual: 20.58 Mbps
+2026-04-29 19:37:09,830 - INFO - Velocidade atual: 18.90 Mbps
+2026-04-29 19:37:32,420 - INFO - Velocidade atual: 19.19 Mbps
+2026-04-29 19:37:32,421 - INFO - Média dos últimos testes: 19.55 Mbps | Status: CRITICO
+2026-04-29 19:37:54,843 - INFO - Velocidade atual: 17.40 Mbps
+2026-04-29 19:38:17,372 - INFO - Velocidade atual: 17.98 Mbps
+2026-04-29 19:38:39,556 - INFO - Velocidade atual: 17.82 Mbps
+2026-04-29 19:38:39,557 - INFO - Média dos últimos testes: 17.74 Mbps | Status: CRITICO
+2026-04-29 19:39:01,729 - INFO - Velocidade atual: 17.44 Mbps
+2026-04-29 19:39:24,197 - INFO - Velocidade atual: 19.70 Mbps
+2026-04-29 19:39:46,451 - INFO - Velocidade atual: 19.95 Mbps
+2026-04-29 19:39:46,451 - INFO - Média dos últimos testes: 19.03 Mbps | Status: CRITICO
+2026-04-29 19:40:08,626 - INFO - Velocidade atual: 18.49 Mbps
+2026-04-29 19:40:31,132 - INFO - Velocidade atual: 16.92 Mbps
+2026-04-29 19:40:53,305 - INFO - Velocidade atual: 18.23 Mbps
+2026-04-29 19:40:53,305 - INFO - Média dos últimos testes: 17.88 Mbps | Status: CRITICO
+2026-04-29 19:41:15,920 - INFO - Velocidade atual: 18.67 Mbps
+2026-04-29 19:41:38,094 - INFO - Velocidade atual: 18.76 Mbps
+2026-04-29 19:42:00,323 - INFO - Velocidade atual: 19.62 Mbps
+2026-04-29 19:42:00,323 - INFO - Média dos últimos testes: 19.02 Mbps | Status: CRITICO
+2026-04-29 19:42:22,491 - INFO - Velocidade atual: 21.12 Mbps
+2026-04-29 19:42:44,784 - INFO - Velocidade atual: 20.27 Mbps
+2026-04-29 19:43:09,299 - INFO - Velocidade atual: 20.58 Mbps
+2026-04-29 19:43:09,300 - INFO - Média dos últimos testes: 20.66 Mbps | Status: CRITICO
+2026-04-29 19:43:32,184 - INFO - Velocidade atual: 19.42 Mbps
+2026-04-29 19:43:54,327 - INFO - Velocidade atual: 19.33 Mbps
+2026-04-29 19:44:16,651 - INFO - Velocidade atual: 19.88 Mbps
+2026-04-29 19:44:16,651 - INFO - Média dos últimos testes: 19.54 Mbps | Status: CRITICO
+2026-04-29 19:44:39,053 - INFO - Velocidade atual: 24.23 Mbps
+2026-04-29 19:45:01,212 - INFO - Velocidade atual: 21.90 Mbps
+2026-04-29 19:45:23,719 - INFO - Velocidade atual: 22.11 Mbps
+2026-04-29 19:45:23,719 - INFO - Média dos últimos testes: 22.75 Mbps | Status: CRITICO
+2026-04-29 19:45:45,948 - INFO - Velocidade atual: 23.12 Mbps
+2026-04-29 19:46:08,092 - INFO - Velocidade atual: 23.29 Mbps
+2026-04-29 19:46:30,157 - INFO - Velocidade atual: 23.02 Mbps
+2026-04-29 19:46:30,158 - INFO - Média dos últimos testes: 23.14 Mbps | Status: CRITICO
+2026-04-29 19:46:52,202 - INFO - Velocidade atual: 23.43 Mbps
+2026-04-29 19:47:14,395 - INFO - Velocidade atual: 24.63 Mbps
+2026-04-29 19:47:36,544 - INFO - Velocidade atual: 23.09 Mbps
+2026-04-29 19:47:36,544 - INFO - Média dos últimos testes: 23.72 Mbps | Status: CRITICO
+2026-04-29 19:47:58,625 - INFO - Velocidade atual: 26.33 Mbps
+2026-04-29 19:48:20,805 - INFO - Velocidade atual: 24.77 Mbps
+2026-04-29 19:48:42,915 - INFO - Velocidade atual: 22.09 Mbps
+2026-04-29 19:48:42,916 - INFO - Média dos últimos testes: 24.40 Mbps | Status: CRITICO
+2026-04-29 19:49:05,096 - INFO - Velocidade atual: 24.04 Mbps
+2026-04-29 19:49:27,240 - INFO - Velocidade atual: 23.03 Mbps
+2026-04-29 19:49:49,559 - INFO - Velocidade atual: 26.28 Mbps
+2026-04-29 19:49:49,560 - INFO - Média dos últimos testes: 24.45 Mbps | Status: CRITICO
+2026-04-29 19:50:11,606 - INFO - Velocidade atual: 25.99 Mbps
+2026-04-29 19:50:33,771 - INFO - Velocidade atual: 26.48 Mbps
+2026-04-29 19:50:56,021 - INFO - Velocidade atual: 23.29 Mbps
+2026-04-29 19:50:56,022 - INFO - Média dos últimos testes: 25.25 Mbps | Status: CRITICO
+2026-04-29 19:51:18,933 - INFO - Velocidade atual: 24.43 Mbps
+2026-04-29 19:51:44,945 - INFO - Velocidade atual: 18.22 Mbps
+2026-04-29 19:52:07,488 - INFO - Velocidade atual: 22.63 Mbps
+2026-04-29 19:52:07,489 - INFO - Média dos últimos testes: 21.76 Mbps | Status: CRITICO
+2026-04-29 19:52:29,687 - INFO - Velocidade atual: 22.43 Mbps
+2026-04-29 19:52:51,806 - INFO - Velocidade atual: 25.20 Mbps
+2026-04-29 19:53:14,004 - INFO - Velocidade atual: 25.30 Mbps
+2026-04-29 19:53:14,005 - INFO - Média dos últimos testes: 24.31 Mbps | Status: CRITICO
+2026-04-29 19:53:36,129 - INFO - Velocidade atual: 23.60 Mbps
+2026-04-29 19:53:58,544 - INFO - Velocidade atual: 25.91 Mbps
+2026-04-29 19:54:20,873 - INFO - Velocidade atual: 24.98 Mbps
+2026-04-29 19:54:20,873 - INFO - Média dos últimos testes: 24.83 Mbps | Status: CRITICO
+2026-04-29 19:54:43,030 - INFO - Velocidade atual: 25.27 Mbps
+2026-04-29 19:55:05,160 - INFO - Velocidade atual: 25.21 Mbps
+2026-04-29 19:55:27,259 - INFO - Velocidade atual: 25.04 Mbps
+2026-04-29 19:55:27,260 - INFO - Média dos últimos testes: 25.17 Mbps | Status: CRITICO
+2026-04-29 19:55:49,277 - INFO - Velocidade atual: 24.05 Mbps
+2026-04-29 19:56:11,630 - INFO - Velocidade atual: 23.94 Mbps
+2026-04-29 19:56:33,988 - INFO - Velocidade atual: 21.60 Mbps
+2026-04-29 19:56:33,989 - INFO - Média dos últimos testes: 23.20 Mbps | Status: CRITICO
+2026-04-29 19:56:56,287 - INFO - Velocidade atual: 18.22 Mbps
+2026-04-29 19:57:18,385 - INFO - Velocidade atual: 21.75 Mbps
+2026-04-29 19:57:40,603 - INFO - Velocidade atual: 21.56 Mbps
+2026-04-29 19:57:40,603 - INFO - Média dos últimos testes: 20.51 Mbps | Status: CRITICO
+2026-04-29 19:58:02,937 - INFO - Velocidade atual: 24.82 Mbps
+2026-04-29 19:58:25,088 - INFO - Velocidade atual: 24.23 Mbps
+2026-04-29 19:58:47,310 - INFO - Velocidade atual: 22.81 Mbps
+2026-04-29 19:58:47,311 - INFO - Média dos últimos testes: 23.95 Mbps | Status: CRITICO
+2026-04-29 19:59:09,415 - INFO - Velocidade atual: 20.08 Mbps
+2026-04-29 19:59:31,526 - INFO - Velocidade atual: 23.73 Mbps
+2026-04-29 19:59:54,029 - INFO - Velocidade atual: 21.09 Mbps
+2026-04-29 19:59:54,030 - INFO - Média dos últimos testes: 21.63 Mbps | Status: CRITICO
+2026-04-29 20:00:05,427 - ERROR - Erro no speedtest: Unable to connect to servers to test latency.
+2026-04-29 20:00:05,428 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 20:00:15,793 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 20:00:15,794 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 20:00:26,191 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 20:00:26,192 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 20:00:26,195 - INFO - Média dos últimos testes: 0.00 Mbps | Status: CRITICO
+2026-04-29 20:00:36,546 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 20:00:36,547 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 20:00:46,946 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 20:00:46,947 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 20:00:57,620 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 20:00:57,621 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 20:00:57,626 - INFO - Média dos últimos testes: 0.00 Mbps | Status: CRITICO
+2026-04-29 20:01:08,028 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 20:01:08,029 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 20:01:18,483 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 20:01:18,484 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 20:01:28,868 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 20:01:28,869 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 20:01:28,872 - INFO - Média dos últimos testes: 0.00 Mbps | Status: CRITICO
+2026-04-29 20:01:39,273 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 20:01:39,274 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 20:01:49,664 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 20:01:49,664 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 20:02:00,055 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 20:02:00,056 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 20:02:00,057 - INFO - Média dos últimos testes: 0.00 Mbps | Status: CRITICO
+2026-04-29 20:02:10,446 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 20:02:10,447 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 20:02:20,863 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 20:02:20,864 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 20:02:31,240 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 20:02:31,241 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 20:02:31,245 - INFO - Média dos últimos testes: 0.00 Mbps | Status: CRITICO
+2026-04-29 20:02:41,634 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 20:02:41,635 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 20:02:51,995 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 20:02:51,996 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 20:03:02,368 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 20:03:02,369 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 20:03:02,372 - INFO - Média dos últimos testes: 0.00 Mbps | Status: CRITICO
+2026-04-29 20:03:12,783 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 20:03:12,785 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 20:03:23,166 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 20:03:23,167 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 20:03:33,569 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 20:03:33,570 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 20:03:33,574 - INFO - Média dos últimos testes: 0.00 Mbps | Status: CRITICO
+2026-04-29 20:03:43,978 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 20:03:43,984 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 20:03:54,369 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 20:03:54,369 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 20:04:04,731 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 20:04:04,732 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 20:04:04,740 - INFO - Média dos últimos testes: 0.00 Mbps | Status: CRITICO
+2026-04-29 20:04:15,117 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 20:04:15,118 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 20:04:25,479 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 20:04:25,481 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 20:04:35,913 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 20:04:35,914 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 20:04:35,919 - INFO - Média dos últimos testes: 0.00 Mbps | Status: CRITICO
+2026-04-29 20:04:46,273 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 20:04:46,274 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 20:04:56,666 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 20:04:56,667 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 20:05:19,754 - INFO - Velocidade atual: 21.73 Mbps
+2026-04-29 20:05:19,755 - INFO - Média dos últimos testes: 7.24 Mbps | Status: CRITICO
+2026-04-29 20:05:41,922 - INFO - Velocidade atual: 21.18 Mbps
+2026-04-29 20:06:04,198 - INFO - Velocidade atual: 19.88 Mbps
+2026-04-29 20:06:26,449 - INFO - Velocidade atual: 23.64 Mbps
+2026-04-29 20:06:26,450 - INFO - Média dos últimos testes: 21.57 Mbps | Status: CRITICO
+2026-04-29 20:06:48,645 - INFO - Velocidade atual: 21.75 Mbps
+2026-04-29 20:07:10,787 - INFO - Velocidade atual: 21.23 Mbps
+2026-04-29 20:07:32,952 - INFO - Velocidade atual: 22.13 Mbps
+2026-04-29 20:07:32,952 - INFO - Média dos últimos testes: 21.70 Mbps | Status: CRITICO
+2026-04-29 20:07:55,487 - INFO - Velocidade atual: 22.03 Mbps
+2026-04-29 20:08:17,587 - INFO - Velocidade atual: 21.81 Mbps
+2026-04-29 20:08:39,985 - INFO - Velocidade atual: 24.04 Mbps
+2026-04-29 20:08:39,985 - INFO - Média dos últimos testes: 22.63 Mbps | Status: CRITICO
+2026-04-29 20:09:02,444 - INFO - Velocidade atual: 22.53 Mbps
+2026-04-29 20:09:24,802 - INFO - Velocidade atual: 22.30 Mbps
+2026-04-29 20:09:46,846 - INFO - Velocidade atual: 22.01 Mbps
+2026-04-29 20:09:46,846 - INFO - Média dos últimos testes: 22.28 Mbps | Status: CRITICO
+2026-04-29 20:10:08,959 - INFO - Velocidade atual: 23.35 Mbps
+2026-04-29 20:10:31,029 - INFO - Velocidade atual: 22.54 Mbps
+2026-04-29 20:10:53,577 - INFO - Velocidade atual: 23.95 Mbps
+2026-04-29 20:10:53,578 - INFO - Média dos últimos testes: 23.28 Mbps | Status: CRITICO
+2026-04-29 20:11:15,840 - INFO - Velocidade atual: 22.91 Mbps
+2026-04-29 20:11:38,005 - INFO - Velocidade atual: 23.20 Mbps
+2026-04-29 20:12:00,142 - INFO - Velocidade atual: 23.13 Mbps
+2026-04-29 20:12:00,142 - INFO - Média dos últimos testes: 23.08 Mbps | Status: CRITICO
+2026-04-29 20:12:22,233 - INFO - Velocidade atual: 24.27 Mbps
+2026-04-29 20:12:44,418 - INFO - Velocidade atual: 22.57 Mbps
+2026-04-29 20:13:06,716 - INFO - Velocidade atual: 19.17 Mbps
+2026-04-29 20:13:06,717 - INFO - Média dos últimos testes: 22.00 Mbps | Status: CRITICO
+2026-04-29 20:13:30,804 - INFO - Velocidade atual: 21.64 Mbps
+2026-04-29 20:13:58,136 - INFO - Velocidade atual: 22.31 Mbps
+2026-04-29 20:14:20,481 - INFO - Velocidade atual: 12.20 Mbps
+2026-04-29 20:14:20,482 - INFO - Média dos últimos testes: 18.72 Mbps | Status: CRITICO
+2026-04-29 20:14:42,617 - INFO - Velocidade atual: 23.07 Mbps
+2026-04-29 20:15:04,896 - INFO - Velocidade atual: 20.98 Mbps
+2026-04-29 20:15:27,124 - INFO - Velocidade atual: 22.26 Mbps
+2026-04-29 20:15:27,125 - INFO - Média dos últimos testes: 22.10 Mbps | Status: CRITICO
+2026-04-29 20:15:49,251 - INFO - Velocidade atual: 20.94 Mbps
+2026-04-29 20:16:11,515 - INFO - Velocidade atual: 22.43 Mbps
+2026-04-29 20:16:33,716 - INFO - Velocidade atual: 23.10 Mbps
+2026-04-29 20:16:33,716 - INFO - Média dos últimos testes: 22.16 Mbps | Status: CRITICO
+2026-04-29 20:16:55,873 - INFO - Velocidade atual: 11.06 Mbps
+2026-04-29 20:17:18,095 - INFO - Velocidade atual: 17.08 Mbps
+2026-04-29 20:17:40,911 - INFO - Velocidade atual: 18.33 Mbps
+2026-04-29 20:17:40,911 - INFO - Média dos últimos testes: 15.49 Mbps | Status: CRITICO
+2026-04-29 20:18:03,147 - INFO - Velocidade atual: 23.77 Mbps
+2026-04-29 20:18:28,307 - INFO - Velocidade atual: 12.36 Mbps
+2026-04-29 20:18:50,783 - INFO - Velocidade atual: 22.28 Mbps
+2026-04-29 20:18:50,784 - INFO - Média dos últimos testes: 19.47 Mbps | Status: CRITICO
+2026-04-29 20:19:13,218 - INFO - Velocidade atual: 21.66 Mbps
+2026-04-29 20:19:35,527 - INFO - Velocidade atual: 25.08 Mbps
+2026-04-29 20:19:57,663 - INFO - Velocidade atual: 26.12 Mbps
+2026-04-29 20:19:57,664 - INFO - Média dos últimos testes: 24.29 Mbps | Status: CRITICO
+2026-04-29 20:20:20,286 - INFO - Velocidade atual: 25.41 Mbps
+2026-04-29 20:20:42,366 - INFO - Velocidade atual: 25.86 Mbps
+2026-04-29 20:21:04,530 - INFO - Velocidade atual: 24.21 Mbps
+2026-04-29 20:21:04,531 - INFO - Média dos últimos testes: 25.16 Mbps | Status: CRITICO
+2026-04-29 20:21:26,821 - INFO - Velocidade atual: 26.77 Mbps
+2026-04-29 20:21:49,082 - INFO - Velocidade atual: 26.79 Mbps
+2026-04-29 20:22:11,381 - INFO - Velocidade atual: 21.47 Mbps
+2026-04-29 20:22:11,382 - INFO - Média dos últimos testes: 25.01 Mbps | Status: CRITICO
+2026-04-29 20:22:41,212 - INFO - Velocidade atual: 10.51 Mbps
+2026-04-29 20:23:03,579 - INFO - Velocidade atual: 28.55 Mbps
+2026-04-29 20:23:25,779 - INFO - Velocidade atual: 26.82 Mbps
+2026-04-29 20:23:25,779 - INFO - Média dos últimos testes: 21.96 Mbps | Status: CRITICO
+2026-04-29 20:23:48,002 - INFO - Velocidade atual: 24.88 Mbps
+2026-04-29 20:24:10,223 - INFO - Velocidade atual: 25.99 Mbps
+2026-04-29 20:24:32,521 - INFO - Velocidade atual: 26.90 Mbps
+2026-04-29 20:24:32,522 - INFO - Média dos últimos testes: 25.92 Mbps | Status: CRITICO
+2026-04-29 20:24:54,799 - INFO - Velocidade atual: 27.41 Mbps
+2026-04-29 20:25:17,046 - INFO - Velocidade atual: 15.55 Mbps
+2026-04-29 20:25:39,186 - INFO - Velocidade atual: 24.99 Mbps
+2026-04-29 20:25:39,187 - INFO - Média dos últimos testes: 22.65 Mbps | Status: CRITICO
+2026-04-29 20:26:04,275 - INFO - Velocidade atual: 25.75 Mbps
+2026-04-29 20:26:27,263 - INFO - Velocidade atual: 29.39 Mbps
+2026-04-29 20:26:49,658 - INFO - Velocidade atual: 24.10 Mbps
+2026-04-29 20:26:49,659 - INFO - Média dos últimos testes: 26.41 Mbps | Status: CRITICO
+2026-04-29 20:27:11,742 - INFO - Velocidade atual: 26.07 Mbps
+2026-04-29 20:27:33,921 - INFO - Velocidade atual: 27.55 Mbps
+2026-04-29 20:27:56,246 - INFO - Velocidade atual: 28.53 Mbps
+2026-04-29 20:27:56,247 - INFO - Média dos últimos testes: 27.38 Mbps | Status: CRITICO
+2026-04-29 20:28:18,409 - INFO - Velocidade atual: 25.98 Mbps
+2026-04-29 20:28:40,526 - INFO - Velocidade atual: 20.61 Mbps
+2026-04-29 20:29:02,924 - INFO - Velocidade atual: 23.77 Mbps
+2026-04-29 20:29:02,925 - INFO - Média dos últimos testes: 23.45 Mbps | Status: CRITICO
+2026-04-29 20:29:25,088 - INFO - Velocidade atual: 26.71 Mbps
+2026-04-29 20:29:47,208 - INFO - Velocidade atual: 24.58 Mbps
+2026-04-29 20:30:09,364 - INFO - Velocidade atual: 24.62 Mbps
+2026-04-29 20:30:09,365 - INFO - Média dos últimos testes: 25.30 Mbps | Status: CRITICO
+2026-04-29 20:30:31,795 - INFO - Velocidade atual: 28.89 Mbps
+2026-04-29 20:30:54,094 - INFO - Velocidade atual: 24.83 Mbps
+2026-04-29 20:31:16,347 - INFO - Velocidade atual: 24.34 Mbps
+2026-04-29 20:31:16,348 - INFO - Média dos últimos testes: 26.02 Mbps | Status: CRITICO
+2026-04-29 20:31:38,532 - INFO - Velocidade atual: 24.63 Mbps
+2026-04-29 20:32:00,724 - INFO - Velocidade atual: 26.48 Mbps
+2026-04-29 20:32:22,868 - INFO - Velocidade atual: 24.78 Mbps
+2026-04-29 20:32:22,869 - INFO - Média dos últimos testes: 25.30 Mbps | Status: CRITICO
+2026-04-29 20:32:45,118 - INFO - Velocidade atual: 22.53 Mbps
+2026-04-29 20:33:07,411 - INFO - Velocidade atual: 24.44 Mbps
+2026-04-29 20:33:29,693 - INFO - Velocidade atual: 25.25 Mbps
+2026-04-29 20:33:29,694 - INFO - Média dos últimos testes: 24.07 Mbps | Status: CRITICO
+2026-04-29 20:33:51,834 - INFO - Velocidade atual: 24.20 Mbps
+2026-04-29 20:34:14,244 - INFO - Velocidade atual: 22.17 Mbps
+2026-04-29 20:34:36,256 - INFO - Velocidade atual: 22.39 Mbps
+2026-04-29 20:34:36,257 - INFO - Média dos últimos testes: 22.92 Mbps | Status: CRITICO
+2026-04-29 20:34:58,609 - INFO - Velocidade atual: 21.45 Mbps
+2026-04-29 20:35:20,907 - INFO - Velocidade atual: 23.40 Mbps
+2026-04-29 20:35:43,020 - INFO - Velocidade atual: 21.32 Mbps
+2026-04-29 20:35:43,020 - INFO - Média dos últimos testes: 22.06 Mbps | Status: CRITICO
+2026-04-29 20:36:05,337 - INFO - Velocidade atual: 10.91 Mbps
+2026-04-29 20:36:28,781 - INFO - Velocidade atual: 20.63 Mbps
+2026-04-29 20:36:50,892 - INFO - Velocidade atual: 22.48 Mbps
+2026-04-29 20:36:50,893 - INFO - Média dos últimos testes: 18.01 Mbps | Status: CRITICO
+2026-04-29 20:37:13,161 - INFO - Velocidade atual: 22.17 Mbps
+2026-04-29 20:37:44,973 - INFO - Velocidade atual: 9.77 Mbps
+2026-04-29 20:38:07,335 - INFO - Velocidade atual: 17.49 Mbps
+2026-04-29 20:38:07,335 - INFO - Média dos últimos testes: 16.47 Mbps | Status: CRITICO
+2026-04-29 20:38:29,408 - INFO - Velocidade atual: 21.51 Mbps
+2026-04-29 20:38:58,413 - INFO - Velocidade atual: 19.89 Mbps
+2026-04-29 20:39:20,564 - INFO - Velocidade atual: 18.17 Mbps
+2026-04-29 20:39:20,564 - INFO - Média dos últimos testes: 19.86 Mbps | Status: CRITICO
+2026-04-29 20:39:42,821 - INFO - Velocidade atual: 20.76 Mbps
+2026-04-29 20:40:04,922 - INFO - Velocidade atual: 18.30 Mbps
+2026-04-29 20:40:27,341 - INFO - Velocidade atual: 20.42 Mbps
+2026-04-29 20:40:27,342 - INFO - Média dos últimos testes: 19.83 Mbps | Status: CRITICO
+2026-04-29 20:40:49,748 - INFO - Velocidade atual: 20.68 Mbps
+2026-04-29 20:41:12,066 - INFO - Velocidade atual: 22.57 Mbps
+2026-04-29 20:41:34,507 - INFO - Velocidade atual: 22.09 Mbps
+2026-04-29 20:41:34,507 - INFO - Média dos últimos testes: 21.78 Mbps | Status: CRITICO
+2026-04-29 20:41:56,760 - INFO - Velocidade atual: 21.51 Mbps
+2026-04-29 20:42:18,939 - INFO - Velocidade atual: 23.04 Mbps
+2026-04-29 20:42:41,117 - INFO - Velocidade atual: 22.00 Mbps
+2026-04-29 20:42:41,118 - INFO - Média dos últimos testes: 22.18 Mbps | Status: CRITICO
+2026-04-29 20:43:03,316 - INFO - Velocidade atual: 21.19 Mbps
+2026-04-29 20:43:25,370 - INFO - Velocidade atual: 22.87 Mbps
+2026-04-29 20:43:47,527 - INFO - Velocidade atual: 19.31 Mbps
+2026-04-29 20:43:47,527 - INFO - Média dos últimos testes: 21.12 Mbps | Status: CRITICO
+2026-04-29 20:44:09,753 - INFO - Velocidade atual: 21.98 Mbps
+2026-04-29 20:44:32,106 - INFO - Velocidade atual: 22.04 Mbps
+2026-04-29 20:44:54,220 - INFO - Velocidade atual: 20.08 Mbps
+2026-04-29 20:44:54,221 - INFO - Média dos últimos testes: 21.37 Mbps | Status: CRITICO
+2026-04-29 20:45:18,153 - INFO - Velocidade atual: 21.66 Mbps
+2026-04-29 20:45:40,274 - INFO - Velocidade atual: 22.23 Mbps
+2026-04-29 20:46:02,659 - INFO - Velocidade atual: 22.50 Mbps
+2026-04-29 20:46:02,660 - INFO - Média dos últimos testes: 22.13 Mbps | Status: CRITICO
+2026-04-29 20:46:25,210 - INFO - Velocidade atual: 21.73 Mbps
+2026-04-29 20:46:47,975 - INFO - Velocidade atual: 22.11 Mbps
+2026-04-29 20:47:10,181 - INFO - Velocidade atual: 22.34 Mbps
+2026-04-29 20:47:10,182 - INFO - Média dos últimos testes: 22.06 Mbps | Status: CRITICO
+2026-04-29 20:47:32,527 - INFO - Velocidade atual: 20.49 Mbps
+2026-04-29 20:47:54,574 - INFO - Velocidade atual: 18.99 Mbps
+2026-04-29 20:48:16,786 - INFO - Velocidade atual: 23.28 Mbps
+2026-04-29 20:48:16,787 - INFO - Média dos últimos testes: 20.92 Mbps | Status: CRITICO
+2026-04-29 20:48:39,020 - INFO - Velocidade atual: 23.98 Mbps
+2026-04-29 20:49:01,043 - INFO - Velocidade atual: 21.42 Mbps
+2026-04-29 20:49:23,309 - INFO - Velocidade atual: 21.69 Mbps
+2026-04-29 20:49:23,310 - INFO - Média dos últimos testes: 22.36 Mbps | Status: CRITICO
+2026-04-29 20:49:45,526 - INFO - Velocidade atual: 20.72 Mbps
+2026-04-29 20:50:07,645 - INFO - Velocidade atual: 20.58 Mbps
+2026-04-29 20:50:30,072 - INFO - Velocidade atual: 21.39 Mbps
+2026-04-29 20:50:30,072 - INFO - Média dos últimos testes: 20.90 Mbps | Status: CRITICO
+2026-04-29 20:50:52,617 - INFO - Velocidade atual: 20.77 Mbps
+2026-04-29 20:51:14,693 - INFO - Velocidade atual: 21.06 Mbps
+2026-04-29 20:51:36,850 - INFO - Velocidade atual: 21.50 Mbps
+2026-04-29 20:51:36,851 - INFO - Média dos últimos testes: 21.11 Mbps | Status: CRITICO
+2026-04-29 20:51:59,106 - INFO - Velocidade atual: 19.99 Mbps
+2026-04-29 20:52:21,395 - INFO - Velocidade atual: 22.20 Mbps
+2026-04-29 20:52:43,788 - INFO - Velocidade atual: 21.46 Mbps
+2026-04-29 20:52:43,788 - INFO - Média dos últimos testes: 21.21 Mbps | Status: CRITICO
+2026-04-29 20:53:05,935 - INFO - Velocidade atual: 20.48 Mbps
+2026-04-29 20:53:28,171 - INFO - Velocidade atual: 22.78 Mbps
+2026-04-29 20:53:50,490 - INFO - Velocidade atual: 19.17 Mbps
+2026-04-29 20:53:50,491 - INFO - Média dos últimos testes: 20.81 Mbps | Status: CRITICO
+2026-04-29 20:54:12,863 - INFO - Velocidade atual: 22.98 Mbps
+2026-04-29 20:54:34,944 - INFO - Velocidade atual: 21.76 Mbps
+2026-04-29 20:54:57,145 - INFO - Velocidade atual: 24.71 Mbps
+2026-04-29 20:54:57,146 - INFO - Média dos últimos testes: 23.15 Mbps | Status: CRITICO
+2026-04-29 20:55:19,290 - INFO - Velocidade atual: 23.90 Mbps
+2026-04-29 20:55:47,556 - INFO - Velocidade atual: 22.54 Mbps
+2026-04-29 20:56:10,322 - INFO - Velocidade atual: 22.38 Mbps
+2026-04-29 20:56:10,323 - INFO - Média dos últimos testes: 22.94 Mbps | Status: CRITICO
+2026-04-29 20:56:32,283 - INFO - Velocidade atual: 21.85 Mbps
+2026-04-29 20:57:26,217 - INFO - Velocidade atual: 22.44 Mbps
+2026-04-29 20:58:19,710 - INFO - Velocidade atual: 21.05 Mbps
+2026-04-29 20:58:19,711 - INFO - Média dos últimos testes: 21.78 Mbps | Status: CRITICO
+2026-04-29 20:59:13,274 - INFO - Velocidade atual: 15.52 Mbps
+2026-04-29 21:00:08,043 - INFO - Velocidade atual: 22.39 Mbps
+2026-04-29 21:00:18,442 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 21:00:18,442 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 21:00:18,445 - INFO - Média dos últimos testes: 12.64 Mbps | Status: CRITICO
+2026-04-29 21:00:28,828 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 21:00:28,829 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 21:00:39,305 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 21:00:39,306 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 21:00:49,695 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 21:00:49,696 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 21:00:49,699 - INFO - Média dos últimos testes: 0.00 Mbps | Status: CRITICO
+2026-04-29 21:01:00,120 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 21:01:00,120 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 21:01:10,508 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 21:01:10,509 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 21:01:20,901 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 21:01:20,902 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 21:01:20,904 - INFO - Média dos últimos testes: 0.00 Mbps | Status: CRITICO
+2026-04-29 21:01:31,269 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 21:01:31,269 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 21:01:41,665 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 21:01:41,665 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 21:01:52,038 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 21:01:52,039 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 21:01:52,044 - INFO - Média dos últimos testes: 0.00 Mbps | Status: CRITICO
+2026-04-29 21:02:02,414 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 21:02:02,415 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 21:02:12,798 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 21:02:12,799 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 21:02:23,156 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 21:02:23,157 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 21:02:23,163 - INFO - Média dos últimos testes: 0.00 Mbps | Status: CRITICO
+2026-04-29 21:02:33,541 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 21:02:33,542 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 21:02:43,943 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 21:02:43,944 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 21:02:54,326 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 21:02:54,327 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 21:02:54,333 - INFO - Média dos últimos testes: 0.00 Mbps | Status: CRITICO
+2026-04-29 21:03:04,860 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 21:03:04,861 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 21:03:15,236 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 21:03:15,238 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 21:03:25,659 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 21:03:25,665 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 21:03:25,668 - INFO - Média dos últimos testes: 0.00 Mbps | Status: CRITICO
+2026-04-29 21:03:36,060 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 21:03:36,063 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 21:03:46,499 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 21:03:46,500 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 21:03:56,861 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 21:03:56,861 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 21:03:56,866 - INFO - Média dos últimos testes: 0.00 Mbps | Status: CRITICO
+2026-04-29 21:04:07,230 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 21:04:07,230 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 21:04:17,653 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 21:04:17,653 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 21:04:28,013 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 21:04:28,014 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 21:04:28,019 - INFO - Média dos últimos testes: 0.00 Mbps | Status: CRITICO
+2026-04-29 21:04:38,431 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 21:04:38,433 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 21:04:50,285 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 21:04:50,286 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 21:05:00,667 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 21:05:00,668 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 21:05:00,673 - INFO - Média dos últimos testes: 0.00 Mbps | Status: CRITICO
+2026-04-29 21:06:00,233 - INFO - Velocidade atual: 16.66 Mbps
+2026-04-29 21:06:56,637 - INFO - Velocidade atual: 4.76 Mbps
+2026-04-29 21:07:56,979 - INFO - Velocidade atual: 22.57 Mbps
+2026-04-29 21:07:56,980 - INFO - Média dos últimos testes: 14.66 Mbps | Status: CRITICO
+2026-04-29 21:08:50,700 - INFO - Velocidade atual: 22.83 Mbps
+2026-04-29 21:09:45,841 - INFO - Velocidade atual: 23.77 Mbps
+2026-04-29 21:10:40,156 - INFO - Velocidade atual: 23.51 Mbps
+2026-04-29 21:10:40,156 - INFO - Média dos últimos testes: 23.37 Mbps | Status: CRITICO
+2026-04-29 21:11:33,947 - INFO - Velocidade atual: 24.67 Mbps
+2026-04-29 21:12:28,346 - INFO - Velocidade atual: 23.56 Mbps
+2026-04-29 21:13:22,998 - INFO - Velocidade atual: 24.51 Mbps
+2026-04-29 21:13:22,999 - INFO - Média dos últimos testes: 24.25 Mbps | Status: CRITICO
+2026-04-29 21:14:18,696 - INFO - Velocidade atual: 25.22 Mbps
+2026-04-29 21:15:12,113 - INFO - Velocidade atual: 24.56 Mbps
+2026-04-29 21:16:08,853 - INFO - Velocidade atual: 23.09 Mbps
+2026-04-29 21:16:08,854 - INFO - Média dos últimos testes: 24.29 Mbps | Status: CRITICO
+2026-04-29 21:17:03,045 - INFO - Velocidade atual: 24.30 Mbps
+2026-04-29 21:17:58,565 - INFO - Velocidade atual: 22.64 Mbps
+2026-04-29 21:18:52,062 - INFO - Velocidade atual: 22.21 Mbps
+2026-04-29 21:18:52,063 - INFO - Média dos últimos testes: 23.05 Mbps | Status: CRITICO
+2026-04-29 21:19:54,623 - INFO - Velocidade atual: 20.91 Mbps
+2026-04-29 21:20:49,178 - INFO - Velocidade atual: 20.06 Mbps
+2026-04-29 21:21:46,985 - INFO - Velocidade atual: 20.45 Mbps
+2026-04-29 21:21:46,986 - INFO - Média dos últimos testes: 20.47 Mbps | Status: CRITICO
+2026-04-29 21:22:41,056 - INFO - Velocidade atual: 23.42 Mbps
+2026-04-29 21:23:37,120 - INFO - Velocidade atual: 20.73 Mbps
+2026-04-29 21:24:31,093 - INFO - Velocidade atual: 19.19 Mbps
+2026-04-29 21:24:31,093 - INFO - Média dos últimos testes: 21.11 Mbps | Status: CRITICO
+2026-04-29 21:25:25,822 - INFO - Velocidade atual: 21.52 Mbps
+2026-04-29 21:26:19,330 - INFO - Velocidade atual: 19.62 Mbps
+2026-04-29 21:27:12,628 - INFO - Velocidade atual: 20.74 Mbps
+2026-04-29 21:27:12,629 - INFO - Média dos últimos testes: 20.63 Mbps | Status: CRITICO
+2026-04-29 21:28:06,409 - INFO - Velocidade atual: 21.57 Mbps
+2026-04-29 21:29:00,065 - INFO - Velocidade atual: 19.98 Mbps
+2026-04-29 21:29:53,764 - INFO - Velocidade atual: 17.06 Mbps
+2026-04-29 21:29:53,764 - INFO - Média dos últimos testes: 19.54 Mbps | Status: CRITICO
+2026-04-29 21:30:05,433 - ERROR - Erro no speedtest: Unable to connect to servers to test latency.
+2026-04-29 21:30:05,434 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 21:30:59,883 - INFO - Velocidade atual: 22.96 Mbps
+2026-04-29 21:32:00,506 - INFO - Velocidade atual: 21.82 Mbps
+2026-04-29 21:32:00,506 - INFO - Média dos últimos testes: 14.93 Mbps | Status: CRITICO
+2026-04-29 21:32:53,743 - INFO - Velocidade atual: 23.00 Mbps
+2026-04-29 21:33:47,027 - INFO - Velocidade atual: 21.99 Mbps
+2026-04-29 21:34:47,884 - INFO - Velocidade atual: 22.38 Mbps
+2026-04-29 21:34:47,885 - INFO - Média dos últimos testes: 22.46 Mbps | Status: CRITICO
+2026-04-29 21:35:41,174 - INFO - Velocidade atual: 21.14 Mbps
+2026-04-29 21:36:38,045 - INFO - Velocidade atual: 23.32 Mbps
+2026-04-29 21:37:31,973 - INFO - Velocidade atual: 20.28 Mbps
+2026-04-29 21:37:31,973 - INFO - Média dos últimos testes: 21.58 Mbps | Status: CRITICO
+2026-04-29 21:38:34,768 - INFO - Velocidade atual: 18.55 Mbps
+2026-04-29 21:39:28,116 - INFO - Velocidade atual: 23.67 Mbps
+2026-04-29 21:40:24,434 - INFO - Velocidade atual: 21.27 Mbps
+2026-04-29 21:40:24,435 - INFO - Média dos últimos testes: 21.16 Mbps | Status: CRITICO
+2026-04-29 21:41:17,880 - INFO - Velocidade atual: 23.75 Mbps
+2026-04-29 21:42:11,697 - INFO - Velocidade atual: 23.06 Mbps
+2026-04-29 21:43:05,826 - INFO - Velocidade atual: 23.22 Mbps
+2026-04-29 21:43:05,826 - INFO - Média dos últimos testes: 23.34 Mbps | Status: CRITICO
+2026-04-29 21:44:01,571 - INFO - Velocidade atual: 22.63 Mbps
+2026-04-29 21:44:54,879 - INFO - Velocidade atual: 26.12 Mbps
+2026-04-29 21:45:48,207 - INFO - Velocidade atual: 29.54 Mbps
+2026-04-29 21:45:48,208 - INFO - Média dos últimos testes: 26.10 Mbps | Status: CRITICO
+2026-04-29 21:46:43,205 - INFO - Velocidade atual: 27.23 Mbps
+2026-04-29 21:47:37,873 - INFO - Velocidade atual: 25.44 Mbps
+2026-04-29 21:48:33,400 - INFO - Velocidade atual: 26.63 Mbps
+2026-04-29 21:48:33,400 - INFO - Média dos últimos testes: 26.43 Mbps | Status: CRITICO
+2026-04-29 21:49:26,779 - INFO - Velocidade atual: 15.56 Mbps
+2026-04-29 21:50:20,636 - INFO - Velocidade atual: 24.81 Mbps
+2026-04-29 21:51:17,034 - INFO - Velocidade atual: 28.49 Mbps
+2026-04-29 21:51:17,035 - INFO - Média dos últimos testes: 22.95 Mbps | Status: CRITICO
+2026-04-29 21:52:12,391 - INFO - Velocidade atual: 25.54 Mbps
+2026-04-29 21:53:06,493 - INFO - Velocidade atual: 24.00 Mbps
+2026-04-29 21:54:00,255 - INFO - Velocidade atual: 27.67 Mbps
+2026-04-29 21:54:00,257 - INFO - Média dos últimos testes: 25.73 Mbps | Status: CRITICO
+2026-04-29 21:54:54,111 - INFO - Velocidade atual: 25.00 Mbps
+2026-04-29 21:55:47,675 - INFO - Velocidade atual: 24.83 Mbps
+2026-04-29 21:56:42,053 - INFO - Velocidade atual: 24.57 Mbps
+2026-04-29 21:56:42,054 - INFO - Média dos últimos testes: 24.80 Mbps | Status: CRITICO
+2026-04-29 21:57:36,878 - INFO - Velocidade atual: 6.77 Mbps
+2026-04-29 21:58:45,173 - INFO - Velocidade atual: 24.33 Mbps
+2026-04-29 21:59:39,083 - INFO - Velocidade atual: 20.55 Mbps
+2026-04-29 21:59:39,083 - INFO - Média dos últimos testes: 17.22 Mbps | Status: CRITICO
+2026-04-29 22:00:33,993 - INFO - Velocidade atual: 22.24 Mbps
+2026-04-29 22:00:44,384 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 22:00:44,385 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 22:00:54,752 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 22:00:54,752 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 22:00:54,757 - INFO - Média dos últimos testes: 7.41 Mbps | Status: CRITICO
+2026-04-29 22:01:05,155 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 22:01:05,156 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 22:01:15,526 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 22:01:15,527 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 22:01:25,900 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 22:01:25,901 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 22:01:25,905 - INFO - Média dos últimos testes: 0.00 Mbps | Status: CRITICO
+2026-04-29 22:01:36,301 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 22:01:36,302 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 22:01:46,664 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 22:01:46,665 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 22:01:57,061 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 22:01:57,062 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 22:01:57,066 - INFO - Média dos últimos testes: 0.00 Mbps | Status: CRITICO
+2026-04-29 22:02:07,443 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 22:02:07,444 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 22:02:17,817 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 22:02:17,818 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 22:02:28,196 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 22:02:28,196 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 22:02:28,201 - INFO - Média dos últimos testes: 0.00 Mbps | Status: CRITICO
+2026-04-29 22:02:38,582 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 22:02:38,583 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 22:02:48,985 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 22:02:48,986 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 22:02:59,355 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 22:02:59,357 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 22:02:59,358 - INFO - Média dos últimos testes: 0.00 Mbps | Status: CRITICO
+2026-04-29 22:03:09,731 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 22:03:09,732 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 22:03:20,110 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 22:03:21,444 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 22:03:31,800 - ERROR - Erro no speedtest: HTTP Error 403: Forbidden
+2026-04-29 22:03:31,800 - INFO - Velocidade atual: 0.00 Mbps
+2026-04-29 22:03:31,810 - INFO - Média dos últimos testes: 0.00 Mbps | Status: CRITICO
