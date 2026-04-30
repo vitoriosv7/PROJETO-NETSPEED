@@ -106,7 +106,7 @@ def main():
         except Exception as e:
             logging.error(f"Erro no loop principal: {e}")
 
-        time.sleep(10)  # reduzido para teste rápido
+        time.sleep(600)  # reduzido para teste rápido
 
 # ================= START =================
 if __name__ == "__main__":
